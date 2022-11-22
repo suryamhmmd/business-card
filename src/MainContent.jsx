@@ -8,7 +8,7 @@ import mail from './assets/Mail.svg'
 import youtube from './assets/youtube.svg'
 import gfrom from './assets/gform.svg'
 import whatsapp from './assets/wa.svg'
-
+import mandiri from './assets/mandiri.png'
 export default function MainContent(){
     return (
         <>
@@ -36,7 +36,7 @@ export default function MainContent(){
                     </div> */}
                 </div>
                 <div className='footer'>
-                    <a href="https://www.facebook.com/minhvy.ha.75/"><img className='facebook' src={facebook} alt="facebook" /></a>
+                    <a href="https://promo.bankmandiri.co.id/"><img className='facebook' src={mandiri} alt="mandiri" /></a>
                 </div>
             </div>
         </>
