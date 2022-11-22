@@ -18,20 +18,20 @@ export default function MainContent(){
                 </div>
                 <div className='sub-container'>
                     <h2 className='name'>Raina Meigantari Wahyu</h2>
-                    <h4 className='role'>Customer Service</h4>
+                    <h4 className='role'>General Bankers</h4>
                     <h5 className='web'>KCP Jakarta Cilangkap</h5>
                     <div className='connect'>
                         <a className='mail' href="https://forms.gle/wkS4hV5fxsR9LFih6"><img classname='gform' src={gfrom} alt="mail" /> GForm</a>
                         <a className='linkedin' href="https://wa.me/6285722710933?text=Hallo!%20Saya%20memerlukan%20bantuan%0A" target='_blank'><img src={whatsapp} alt="" />Whatsapp</a>
                     </div>
-                    {/* <div className='about'>
+                    <div className='about'>
                         <h3>Form Keluhan</h3>
                         <p>I am an aspiring full-stack developer. I am constantly learning new technologies and knowledge related to my future career. </p>
                     </div>
                     <div className='interest'>
                         <h3>Interests</h3>
                         <p>Finance. Music. Technology. Sport. Health. I love connecting with new people, give me a shout at Minhvy.ha@outlook.com.</p>
-                    </div> */}
+                    </div>
                 </div>
                 <div className='footer'>
                     <a href="https://www.facebook.com/minhvy.ha.75/"><img className='facebook' src={facebook} alt="facebook" /></a>
